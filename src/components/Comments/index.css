@@ -1,0 +1,59 @@
+/* Write your CSS here */
+.inputColumn {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+}
+input {
+  margin: 20px;
+}
+.inputrow {
+  display: flex;
+}
+.topbg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+}
+.rowClass {
+  display: flex;
+  align-items: center;
+}
+.count {
+  background-color: #0284c7;
+  padding: 10px;
+  color: aliceblue;
+  border-radius: 8px;
+  margin: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+h1 {
+  font-size: 40px;
+}
+.imagebg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.horrizontalrow {
+  width: 60%;
+  height: 2px;
+  background-color: black;
+}
+.leftal {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: flex-start;
+}

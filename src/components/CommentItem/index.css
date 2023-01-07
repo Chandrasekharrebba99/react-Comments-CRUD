@@ -1,0 +1,65 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+li {
+  list-style-type: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 900px;
+  display: flex;
+  flex-direction: column;
+  padding: 17px;
+  justify-content: center;
+  margin: 10px;
+}
+.rowel {
+  display: flex;
+  align-items: center;
+}
+.firstletter {
+  font-size: 25px;
+  background-color: #f59e0b;
+  width: 35px;
+  border-radius: 25px;
+  text-align: center;
+  margin-right: 15px;
+}
+.colmitem {
+  display: flex;
+  justify-content: space-between;
+}
+.img2 {
+  width: 30px;
+  height: 30px;
+}
+.comment {
+  padding-left: 20px;
+}
+.time {
+  padding: 20px;
+}
